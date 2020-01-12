@@ -2,4 +2,4 @@
 
 ## Equality comparison
 
-![equality-comparison](./equality-comparison)
+![equality-comparison](./equality-comparison.png)
