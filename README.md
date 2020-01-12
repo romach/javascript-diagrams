@@ -1,2 +1,5 @@
-# javascript-diagrams
-JavaScript diagrams
+# JavaScriptDiagrams
+
+## Equality comparison
+
+![equality-comparison](./equality-comparison)
